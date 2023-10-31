@@ -1,0 +1,26 @@
+.left {
+    display: none;
+}
+h1 {
+    text-transform: uppercase;
+}
+h2 {
+    color: #0000FF;
+}
+header {
+    background: #666666;
+    text-align: center;
+    color: #FF0000;
+}
+a {
+    color: black;
+}
+nav {
+    text-align: left;
+}
+
+section {
+    background: #616161;
+}
+
+
